@@ -1,2 +1,2 @@
 # testrepo1
-git hub understanding
+testrepo1 is repository for showing the bare minimum of git hub and how toetc
